@@ -1,16 +1,17 @@
-### Hi there 👋
+### Welcome! 👋
 
-<!--
-**sahdome/sahdome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Lucas and I have been a developer since 2010. I have over 6 years working with PHP and over 4 years working with the Laravel framework. On the frontend I have been working with Vue.js for the past 3 years.
 
-Here are some ideas to get you started:
+Throughout my journey I have beem working with monitoring and maintenance of linux servers, also worked with server automation with Python and Bash Script. Currently I am specializing in PHP rest apis development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a recent challenge I started to work on projects with Nodejs on the backend and React on the frontend.
+
+- 🔭 I’m currently working on: 
+    1. https://consumidor.quod.com.br 
+    2. https://hintify.io
+- 🌱 I’m currently learning more about Typescrypt e Next.js
+- 👯 I’m looking to collaborate on https://laravel.com
+
+- 📫 How to reach me: 
+    1. linkedin: https://www.linkedin.com/in/lucassahdo/
+    2. website: http://sahdo.me
