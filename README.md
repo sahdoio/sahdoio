@@ -4,7 +4,7 @@ My name is Lucas and I have been a Software Developer since 2010. I have over 6 
 
 Throughout my journey I have beem working with monitoring and maintenance of linux servers, also worked with server automation with Python and Bash Script. Currently I am specializing in PHP rest apis development.
 
-As a recent challenge I started to work on projects with Nodejs on the backend and React on the frontend.
+As a recent challenge as well I started to work on projects with Nodejs on the backend and React on the frontend.
 
 - 🔭 I’m currently working on: 
     1. https://consumidor.quod.com.br 
