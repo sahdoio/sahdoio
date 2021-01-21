@@ -9,7 +9,7 @@ As a recent challenge as well I started to work on projects with Nodejs on the b
 - 🔭 I’m currently working on: 
     1. https://consumidor.quod.com.br 
     2. https://hintify.io
-- 🌱 I’m currently learning more about Typescrypt e Next.js
+- 🌱 I’m currently learning more about Typescrypt, Next.js, Jest and Pest
 - 👯 I’m looking to collaborate on https://laravel.com
 
 - 📫 How to reach me: 
