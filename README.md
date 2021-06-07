@@ -7,7 +7,7 @@ Throughout my journey I have been working with monitoring and maintenance of lin
 As a recent challenge as well I started to work on projects with Nodejs on the backend and React on the frontend.
 
 - 🔭 I’m currently working on: 
-    1. https://consumidor.quod.com.br 
+    1. https://www.gamerscard.com/
     2. https://hintify.io
 - 🌱 I’m currently learning more about Typescrypt, Next.js, Jest and Pest
 - 👯 I’m looking to collaborate on https://laravel.com
