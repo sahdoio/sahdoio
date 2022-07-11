@@ -13,4 +13,4 @@ As a recent challenge as well I started to work on projects with Nodejs on the b
 
 - 📫 How to reach me: 
     1. linkedin: https://www.linkedin.com/in/lucassahdo/
-    2. website: http://sahdo.me
+    2. website: http://sahdo.io
