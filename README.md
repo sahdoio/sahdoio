@@ -6,8 +6,8 @@ Throughout my journey I've been working with monitoring and maintenance of linux
 
 - 🔭 I’m currently working on: 
     1. https://curotec.com
-    2. https://hintify.io
-- 🌱 I’m currently learning more about Rust, Apache Kafka and Jest/Pest
+    2. https://www.gamerscard.com/
+- 🌱 I’m currently learning more about Go, Rust, Apache Kafka and Jest/Pest
 
 - 📫 How to reach me: 
     1. linkedin: https://www.linkedin.com/in/lucassahdo/
