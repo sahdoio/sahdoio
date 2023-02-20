@@ -6,7 +6,7 @@ Throughout my journey I've been working with monitoring and maintenance of linux
 
 - 🔭 I’m currently working on: 
     1. https://curotec.com
-    2. https://www.gamerscard.com/
+    2. https://www.gamersbank.com/
 - 🌱 I’m currently learning more about Go, Rust, Apache Kafka and Jest/Pest
 
 - 📫 How to reach me: 
