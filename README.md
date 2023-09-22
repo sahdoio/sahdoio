@@ -6,9 +6,9 @@ Throughout my journey I've been working with monitoring and maintenance of linux
 
 - 🔭 I’m currently working on: 
     1. https://kvcore.com/
-    2. https://www.gamersbank.com/
+    2. https://www.hintify.io
 - 🌱 I’m currently learning more about Go, Apache Kafka and Jest/Pest
 
 - 📫 How to reach me: 
-    1. linkedin: https://www.linkedin.com/in/lucassahdo/
+    1. linkedin: https://www.linkedin.com/in/lucassahdo
     2. website: http://sahdo.io
