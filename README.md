@@ -6,7 +6,8 @@ Throughout my journey I've been working with monitoring and maintenance of linux
 
 - 🔭 I’m currently working on: 
     1. https://kvcore.com
-    2. https://hintify.io
+    2. https://vitrineia.app
+    3. https://walkwoolf.app
 - 🌱 I’m currently learning more about Go, Apache Kafka and Jest/Pest
 
 - 📫 How to reach me: 
