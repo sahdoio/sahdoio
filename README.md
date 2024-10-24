@@ -8,6 +8,7 @@ Throughout my journey I've been working with monitoring and maintenance of linux
     1. https://kvcore.com
     2. https://vitrineia.app
     3. https://walkwoof.app
+    4. https://php.training
 - 🌱 I’m currently learning more about Go, Apache Kafka and Jest/Pest
 
 - 📫 How to reach me: 
