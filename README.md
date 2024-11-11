@@ -5,7 +5,7 @@ My name is Lucas and I have been a Software Developer since 2010. I have over 8 
 Throughout my journey I've been working with monitoring and maintenance of linux servers, also worked with server automation with Python and Bash Script. Currently I'm a rest API's development specialist, working with backend stacks such as PHP/Laravel/Lumen and NodeJs/Typescript. I have strong experience with object-oriented development with PHP, as well as in TypeScript/Javascript.
 
 - 🔭 I’m currently working on: 
-    1. https://kvcore.com
+    1. https://boldtrail.com
     2. https://vitrineia.app
     3. https://walkwoof.app
     4. https://php.training
