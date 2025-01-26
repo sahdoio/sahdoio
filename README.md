@@ -1,18 +1,62 @@
-### Welcome! 👋
+# Welcome to My GitHub! 🚀👨‍💻
 
-My name is Lucas and I have been a Software Developer since 2010. I have over 8 years working with PHP and over 5 years working with the Laravel framework. On the frontend I have been working with Vue.js/React for the past 4 years.
+Hi, I'm **Lucas Sahdo**, a passionate **Senior Software Engineer** with over a decade of experience in software development. My journey began in 2010, and since then, I've honed my skills in backend development, frontend technologies, server automation, and architecture design. Here’s a little about my professional journey:
 
-Throughout my journey I've been working with monitoring and maintenance of linux servers, also worked with server automation with Python and Bash Script. Currently I'm a rest API's development specialist, working with backend stacks such as PHP/Laravel/Lumen and NodeJs/Typescript. I have strong experience with object-oriented development with PHP, as well as in TypeScript/Javascript.
+---
 
-- 🔭 I’m currently working on: 
-    1. https://boldtrail.com
-    2. https://vitrineia.app
-    3. https://walkwoof.app
-    4. https://php.training
-    5. https://parch.dev
-       
-- 🌱 I’m currently learning more about Go, Apache Kafka and Jest/Pest
+## 🌟 Expertise Highlights
 
-- 📫 How to reach me: 
-    1. links: [https://pinkary.com/@sahdoio](https://pinkary.com/@sahdoio)
-    2. website: [https://sahdo.io](https://sahdo.io/)
+- **Backend Specialist**: Proficient in PHP, Laravel/Lumen, Node.js, and TypeScript.  
+- **Frontend Experience**: 4+ years working with Vue.js and React.  
+- **Server Automation**: Expertise in Linux server maintenance and automation with Python and Bash.  
+- **REST API Wizard**: Specialist in designing and implementing high-performance APIs.  
+- **DevOps Enthusiast**: Skilled with Docker, RabbitMQ, AWS, and DigitalOcean.  
+
+---
+
+## 🔭 Current Projects I'm Working On
+
+1. 🌍 [**BoldTrail**](https://boldtrail.com) – Elevating travel experiences.  
+2. 🛍️ [**VitrineIA**](https://vitrineia.app) – Enhancing e-commerce with AI-driven stories.  
+3. 🐾 [**WalkWoof**](https://walkwoof.app) – Revolutionizing pet care with live-tracked walks.  
+4. 🎓 [**PHP Training**](https://php.training) – Empowering developers through education.  
+5. 🔧 [**Parch.dev**](https://parch.dev) – Streamlining Laravel scaffolding with clean architecture.
+
+---
+
+## 🌱 What I'm Learning
+
+- **Languages & Frameworks**: Diving deeper into Go and Symfony.  
+- **Messaging & Queues**: Exploring Apache Kafka, RabbitMQ, and asynchronous PHP with Swoole.  
+- **Testing Tools**: Mastering Jest for TypeScript and Pest for PHP.  
+- **Framework Comparisons**: Experimenting with Slim and Hyperf via Proofs of Concept.
+
+---
+
+## 📈 Career Snapshot
+
+- **11+ Years of Experience**: Building robust systems for e-commerce, fintech, and SaaS.  
+- **Global Impact**: Collaborated with teams across Brazil, the US, and beyond.  
+- **Leadership**: Managed diverse teams and set coding standards using SOLID principles.
+
+---
+
+## 📫 How to Reach Me
+
+- 🖇️ **Links**: [Pinkary Profile](https://pinkary.com/@sahdoio)  
+- 🌐 **Website**: [sahdo.io](https://sahdo.io)  
+
+---
+
+## 🚀 My Toolbox
+
+Here’s a glimpse of the technologies I use to bring ideas to life:
+
+- **Languages**: PHP, TypeScript, JavaScript, Python, Bash, C++.  
+- **Frameworks**: Laravel, Symfony, Slim, Vue.js, React, Nuxt.js, NestJS.  
+- **DevOps**: Docker, AWS, DigitalOcean, MySQL, MongoDB, Redis.  
+- **Testing**: Pest, PHPUnit, Jest.  
+
+---
+
+Feel free to explore my repositories, drop a star ⭐, or reach out to collaborate on exciting projects!
