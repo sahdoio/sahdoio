@@ -26,7 +26,7 @@ Hi, I'm **Lucas Sahdo**, a passionate **Senior Software Engineer** with over a d
 
 ## 🌱 What I'm Learning
 
-- **Languages & Frameworks**: Diving deeper into Go and Symfony.  
+- **Languages & Frameworks**: Diving deeper into Go, Symfony, Slim and HyperF (Async PHP).  
 - **Messaging & Queues**: Exploring Apache Kafka, RabbitMQ, and asynchronous PHP with Swoole.  
 - **Testing Tools**: Mastering Jest for TypeScript and Pest for PHP.  
 - **Framework Comparisons**: Experimenting with Slim and Hyperf via Proofs of Concept.
