@@ -9,18 +9,18 @@ Hi, I'm **Lucas Sahdo**, a passionate **Senior Software Engineer** with over a d
 - **Backend Specialist**: Proficient in PHP, Laravel/Lumen, Node.js, and TypeScript.  
 - **Frontend Experience**: 4+ years working with Vue.js and React.  
 - **Server Automation**: Expertise in Linux server maintenance and automation with Python and Bash.  
-- **REST API Wizard**: Specialist in designing and implementing high-performance APIs.  
-- **DevOps Enthusiast**: Skilled with Docker, RabbitMQ, AWS, and DigitalOcean.  
+- **REST API Expert**: Specialist in designing and implementing high-performance APIs.  
+- **DevOps Skills**: Skilled with Docker, RabbitMQ, AWS, and DigitalOcean.  
 
 ---
 
 ## 🔭 Current Projects I'm Working On
 
-1. 🌍 [**BoldTrail**](https://boldtrail.com) – Elevating travel experiences.  
-2. 🛍️ [**VitrineIA**](https://vitrineia.app) – Enhancing e-commerce with AI-driven stories.  
+1. 🌍 [**BoldTrail**](https://boldtrail.com) – Elevating Real State business experiences.  
+2. 🛍️ [**VitrineIA**](https://vitrineia.app) – Enhancing e-commerce with AI-driven apps.  
 3. 🐾 [**WalkWoof**](https://walkwoof.app) – Revolutionizing pet care with live-tracked walks.  
-4. 🎓 [**PHP Training**](https://php.training) – Empowering developers through education.  
-5. 🔧 [**Parch.dev**](https://parch.dev) – Streamlining Laravel scaffolding with clean architecture.
+4. 🎓 [**PHP Training**](https://php.training) – Empowering developers through modern PHP education.  
+5. 🔧 [**Parch.dev**](https://parch.dev) – Streamlining PHP projects scaffolding with decoupled architectures.
 
 ---
 
