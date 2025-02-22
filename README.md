@@ -37,9 +37,8 @@ Hi, I'm **Lucas Sahdo**, a passionate **Senior Software Engineer** with over a d
 
 ## 📈 Career Snapshot
 
-- **11+ Years of Experience**: Building robust systems for e-commerce, fintech, and SaaS.  
-- **Global Impact**: Collaborated with teams across Brazil, the US, and beyond.  
-- **Leadership**: Managed diverse teams and set coding standards using SOLID principles.
+- **12+ Years of Experience**: Building robust systems for e-commerce, fintech, and SaaS.  
+- **Global Impact**: Collaborated with teams across Brazil and US.
 
 ---
 
@@ -54,7 +53,7 @@ Hi, I'm **Lucas Sahdo**, a passionate **Senior Software Engineer** with over a d
 
 Here’s a glimpse of the technologies I use to bring ideas to life:
 
-- **Languages**: PHP, TypeScript, JavaScript, Python, Bash, C++.  
+- **Languages**: PHP, TypeScript, JavaScript, Go  
 - **Frameworks**: Laravel, Symfony, Slim, Vue.js, React, Nuxt.js, NestJS.  
 - **DevOps**: Docker, AWS, DigitalOcean, MySQL, MongoDB, Redis.  
 - **Testing**: Pest, PHPUnit, Jest.  
