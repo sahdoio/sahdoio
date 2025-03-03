@@ -6,7 +6,7 @@ Hi, I'm **Lucas Sahdo**, a passionate **Senior Software Engineer** with over a d
 
 ## 🌟 Expertise Highlights
 
-- **Backend Specialist**: Proficient in PHP, Laravel/Lumen, Node.js, and TypeScript.  
+- **Backend Specialist**: Proficient in PHP, Laravel, Node.js, and TypeScript.
 - **Frontend Experience**: 4+ years working with Vue.js and React.  
 - **Server Automation**: Expertise in Linux server maintenance and automation with Python and Bash.  
 - **REST API Expert**: Specialist in designing and implementing high-performance APIs.  
@@ -54,7 +54,7 @@ Hi, I'm **Lucas Sahdo**, a passionate **Senior Software Engineer** with over a d
 Here’s a glimpse of the technologies I use to bring ideas to life:
 
 - **Languages**: PHP, TypeScript, JavaScript, Go  
-- **Frameworks**: Laravel, Symfony, Slim, Vue.js, React, Nuxt.js, NestJS.  
+- **Frameworks**: Laravel, Symfony, Slim, Hyperf, Vue.js, React, Nuxt.js, NestJS.  
 - **DevOps**: Docker, AWS, DigitalOcean, MySQL, MongoDB, Redis.  
 - **Testing**: Pest, PHPUnit, Jest.  
 
