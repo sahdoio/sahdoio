@@ -21,7 +21,7 @@ Hi, I'm **Lucas Sahdo**, a passionate **Senior Software Engineer** with over a d
 3. [**🐶 walkwoof**](https://walkwoof.app/) - Revolutionizing pet care with app-driven walks.
 4. [**💡 php.training**](https://php.training/) - Empowering developers through modern PHP education.
 5. [**🛠️ parch.dev**](https://parch.dev/) - Streamlining PHP projects scaffolding with decoupled architectures.
-6. [**🕷️ crawlly.app**](https://crawlly.app/) - Empowering web data extraction with high-performance crawling. Built with **HyperF**, **Swoole**, and **PHP** for the ultimate scalability and speed.
+6. [**🕷️ crawlly.app**](https://crawlly.app/) - Empowering web data extraction with high-performance crawling. Built with **Golang** for the ultimate scalability and speed and NextJs for the front app.
 7. [**💸 ontrack.money**](https://ontrack.money/) - Simplifying financial tracking with smart tools for payment and installment management.
 
 ---
