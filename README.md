@@ -16,13 +16,13 @@ Hi, I'm **Lucas Sahdo**, a passionate **Senior Software Engineer** with over a d
 
 ## 🚧 Current Projects I'm Working On
 
-1. [**Leasecake**](https://leasecake.com/){target="_blank" rel="noopener noreferrer"} - Leasecake is a lease and location management platform that gives you the insights to drive your real estate strategy.
-2. [**vitrineJA**](https://vitrine-ja.app/){target="_blank" rel="noopener noreferrer"} - Enhancing e-commerce through AI-driven apps.
-3. [**walkoff**](https://walkoff.app/){target="_blank" rel="noopener noreferrer"} - Revolutionizing pet care with app-driven walks.
-4. [**PHP TRAINING**](https://php.training/){target="_blank" rel="noopener noreferrer"} - Empowering developers through modern PHP education.
-5. [**parch.dev**](https://parch.dev/){target="_blank" rel="noopener noreferrer"} - Streamlining PHP projects scaffolding with decoupled architectures.
-6. [**Crawlify.app**](https://crawlify.app/){target="_blank" rel="noopener noreferrer"} - Empowering web data extraction with high-performance crawling. Built with **HyperF**, **Swoole**, and **PHP** for the ultimate scalability and speed. ✨
-7. [**onTrack.money**](https://ontrack.money/){target="_blank" rel="noopener noreferrer"} - Simplifying financial tracking with smart tools for payment and installment management.
+1. [**Leasecake**](https://leasecake.com/) - Leasecake is a lease and location management platform that gives you the insights to drive your real estate strategy.
+2. [**vitrineJA**](https://vitrine-ja.app/) - Enhancing e-commerce through AI-driven apps.
+3. [**walkoff**](https://walkoff.app/) - Revolutionizing pet care with app-driven walks.
+4. [**PHP TRAINING**](https://php.training/) - Empowering developers through modern PHP education.
+5. [**parch.dev**](https://parch.dev/) - Streamlining PHP projects scaffolding with decoupled architectures.
+6. [**Crawlify.app**](https://crawlify.app/) - Empowering web data extraction with high-performance crawling. Built with **HyperF**, **Swoole**, and **PHP** for the ultimate scalability and speed. ✨
+7. [**onTrack.money**](https://ontrack.money/) - Simplifying financial tracking with smart tools for payment and installment management.
 
 ---
 
