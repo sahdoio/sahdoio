@@ -16,13 +16,13 @@ Hi, I'm **Lucas Sahdo**, a passionate **Senior Software Engineer** with over a d
 
 ## 🚧 Current Projects I'm Working On
 
-1. [**leasecake.com**](https://leasecake.com/) - Leasecake is a lease and location management platform that gives you the insights to drive your real estate strategy.
-2. [**vitrineia.app**](https://vitrine-ja.app/) - Enhancing e-commerce through AI-driven apps.
-3. [**walkoff**](https://walkoff.app/) - Revolutionizing pet care with app-driven walks.
-4. [**php.training**](https://php.training/) - Empowering developers through modern PHP education.
-5. [**parch.dev**](https://parch.dev/) - Streamlining PHP projects scaffolding with decoupled architectures.
-6. [**crawlly.app**](https://crawlly.app/) - Empowering web data extraction with high-performance crawling. Built with **HyperF**, **Swoole**, and **PHP** for the ultimate scalability and speed. ✨
-7. [**ontrack.money**](https://ontrack.money/) - Simplifying financial tracking with smart tools for payment and installment management.
+1. [**🏠 leasecake.com**](https://leasecake.com/) - Leasecake is a lease and location management platform that gives you the insights to drive your real estate strategy.
+2. [**🛍️ vitrineia.app**](https://vitrineia.app/) - Enhancing e-commerce through AI-driven apps.
+3. [**🐶 walkwoof**](https://walkwoof.app/) - Revolutionizing pet care with app-driven walks.
+4. [**💡 php.training**](https://php.training/) - Empowering developers through modern PHP education.
+5. [**🛠️ parch.dev**](https://parch.dev/) - Streamlining PHP projects scaffolding with decoupled architectures.
+6. [**🕷️ crawlly.app**](https://crawlly.app/) - Empowering web data extraction with high-performance crawling. Built with **HyperF**, **Swoole**, and **PHP** for the ultimate scalability and speed.
+7. [**💸 ontrack.money**](https://ontrack.money/) - Simplifying financial tracking with smart tools for payment and installment management.
 
 ---
 
