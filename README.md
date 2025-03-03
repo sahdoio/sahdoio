@@ -16,7 +16,7 @@ Hi, I'm **Lucas Sahdo**, a passionate **Senior Software Engineer** with over a d
 
 ## 🔭 Current Projects I'm Working On
 
-1. 🌍 [**BoldTrail**](https://boldtrail.com) – Elevating Real Estate business experiences.  
+1. 🌍 [**Leasecake**](https://leasecake.com/) – Leasecake is a lease and location management platform that gives you the insights to drive your real estate strategy.
 2. 🛍️ [**VitrineIA**](https://vitrineia.app) – Enhancing e-commerce with AI-driven apps.  
 3. 🐾 [**WalkWoof**](https://walkwoof.app) – Revolutionizing pet care with live-tracked walks.  
 4. 🎓 [**PHP Training**](https://php.training) – Empowering developers through modern PHP education.  
