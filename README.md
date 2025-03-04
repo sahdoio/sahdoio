@@ -2,7 +2,7 @@ Hi, I'm **Lucas Sahdo**, a passionate **Senior Software Engineer** with over a d
 
 ---
 
-## 🌟 Expertise Highlights
+## 🌟 Highlights
 
 - **Backend Specialist**: Proficient in PHP, Laravel, Node.js, and TypeScript.
 - **Frontend Experience**: 4+ years working with Vue.js and React.  
