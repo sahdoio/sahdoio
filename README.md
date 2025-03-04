@@ -1,4 +1,4 @@
-# Welcome to My GitHub! 🚀👨‍💻
+# Welcome!
 
 Hi, I'm **Lucas Sahdo**, a passionate **Senior Software Engineer** with over a decade of experience in software development. My journey began in 2010, and since then, I've honed my skills in backend development, frontend technologies, server automation, and architecture design. Here’s a little about my professional journey:
 
