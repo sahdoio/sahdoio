@@ -7,16 +7,6 @@ Hi, I'm **Lucas Sahdo**, a passionate **Senior Software Engineer** with over a d
 - **REST API Expert**: Specialist in designing and implementing Rest APIs.
 - **DevOps Skills**: Skilled with Docker, RabbitMQ, AWS, and DigitalOcean.  
 
-## 🚧 Current Projects I'm Working On
-
-1. [**🏠 leasecake.com**](https://leasecake.com/) - Leasecake is a lease and location management platform that gives you the insights to drive your real estate strategy.
-2. [**🛍️ vitrineia.app**](https://vitrineia.app/) - Enhancing e-commerce through AI-driven apps.
-3. [**🐶 walkwoof**](https://walkwoof.app/) - Revolutionizing pet care with app-driven walks.
-4. [**💡 php.training**](https://php.training/) - Empowering developers through modern PHP education.
-5. [**🛠️ parch.dev**](https://parch.dev/) - Streamlining PHP projects scaffolding with decoupled architectures.
-6. [**🕷️ crawlly.app**](https://crawlly.app/) - Empowering web data extraction with high-performance crawling. Built with **Golang** for the ultimate scalability and speed and NextJs for the front app.
-7. [**💸 ontrack.money**](https://ontrack.money/) - Simplifying financial tracking with smart tools for payment and installment management.
-
 ## 🌱 What I'm Learning
 
 - **Languages & Frameworks**: Diving deeper into Symfony, Slim, HyperF (Async PHP) and Golang.  
